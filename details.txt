@@ -1,0 +1,28 @@
+Essential Navbar Items:
+
+Home
+
+About Us
+
+Courses
+
+Admission
+
+Gallery
+
+Contact
+
+👉 (These are the top-level links you’ll put inside your Navbar.)
+
+
+
+md:flex gap-5 hidden font-medium -->desktop
+
+
+
+<li><Link href={'/'}>Home</Link></li>
+        <li><Link href={'/aboutUs'}>About Us</Link></li>
+        <li><Link href={'/courses'}>Courses</Link></li>
+        <li><Link href={'/admission'}>Admission</Link></li>
+        <li><Link href={'/admission'}>Gallery</Link></li>
+        <li><Link href={'/contact'}>Contact</Link></li>
