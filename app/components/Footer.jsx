@@ -30,7 +30,7 @@ const Footer = () => {
         <p className='para leading-7 [&:not(:first-child)]:mt-6'>&copy; Copyright {<CurrentYear/>}. All Rights Reserved.</p>
       </div>
       <blockquote className="mt-6 border-l-2 pl-6 italic para">
-      Desgin & Developed By <Link className='text-white hover:underline' href={'/'}>Rk Digital Solutions</Link>
+      Desgin & Developed By <Link className='text-white hover:underline' href={'/'}>Manish Chaurasia</Link>
     </blockquote>
     </div>
   )
