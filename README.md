@@ -1,72 +1,30 @@
-Sure! Here's your `README.md` in proper **Markdown format**:
+# RK Private ITI Website 🚀
 
-````markdown
-# RK Private ITI Website 🌐
+A responsive and modern website for **RK Private ITI**, built using **Next.js** and **Tailwind CSS**. Showcases institute details, courses, and announcements with a clean and accessible design.
 
-A modern, responsive website for **RK Private ITI**, built using **Next.js** and **Tailwind CSS**. Designed to showcase institute details, courses, updates, and essential information in a clean and user-friendly interface.
+## 🔧 Tech Stack
 
-## 🚀 Features
-
-- ⚡ Fast and SEO-friendly Next.js framework
-- 🎨 Modern UI with Tailwind CSS
-- 📱 Fully responsive design for all devices
-- 📚 Course information and announcements
-- 🏫 Institutional overview and contact details
-- 🧩 Clean, scalable project structure
-
-## 🛠️ Tech Stack
-
-- **Frontend**: Next.js 14 (App Router)
+- **Framework**: Next.js (App Router)
 - **Styling**: Tailwind CSS
 - **Icons**: Lucide React
 
-## 📸 Preview
+## 🌟 Features
 
-Live Demo: [https://iti-project-psi.vercel.app](https://iti-project-psi.vercel.app)
+- 📱 Mobile-friendly & responsive layout
+- ⚡ Fast performance and smooth navigation
+- 📚 Course information, updates, and contact
+- 🧩 Clean code and modular structure
 
-![Screenshot](public/screenshot.png)
+## 🔗 Live Demo
 
-## 🧑‍💻 Getting Started
+👉 [Visit Website](https://iti-project-psi.vercel.app)
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/manish8726-develops/ITI-website.git
-   cd ITI-website
-````
+## 🚀 Getting Started
 
-2. **Install dependencies**
+```bash
+git clone https://github.com/manish8726-develops/ITI-website.git
+cd ITI-website
+npm install
+npm run dev
 
-   ```bash
-   npm install
-   ```
-
-3. **Run the development server**
-
-   ```bash
-   npm run dev
-   ```
-
-4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-## 📁 Folder Structure
-
-```
-/app
-  /about
-  /courses
-  /contact
-  /layout.tsx
-  /page.tsx
-/components
-/public
-/styles
-```
-
-## 🙌 Credits
-
-Developed by [Manish Chaurasia](https://github.com/manish8726-develops)
-
-```
-
-You can copy and paste this directly into your `README.md` file. Let me know if you want badges, a Hindi version, or a section for deployment steps on Vercel.
-```
+Made with ❤️ by Manish Chaurasia
