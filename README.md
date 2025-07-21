@@ -1,36 +1,72 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Sure! Here's your `README.md` in proper **Markdown format**:
 
-## Getting Started
+````markdown
+# RK Private ITI Website 🌐
 
-First, run the development server:
+A modern, responsive website for **RK Private ITI**, built using **Next.js** and **Tailwind CSS**. Designed to showcase institute details, courses, updates, and essential information in a clean and user-friendly interface.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## 🚀 Features
+
+- ⚡ Fast and SEO-friendly Next.js framework
+- 🎨 Modern UI with Tailwind CSS
+- 📱 Fully responsive design for all devices
+- 📚 Course information and announcements
+- 🏫 Institutional overview and contact details
+- 🧩 Clean, scalable project structure
+
+## 🛠️ Tech Stack
+
+- **Frontend**: Next.js 14 (App Router)
+- **Styling**: Tailwind CSS
+- **Icons**: Lucide React
+
+## 📸 Preview
+
+Live Demo: [https://iti-project-psi.vercel.app](https://iti-project-psi.vercel.app)
+
+![Screenshot](public/screenshot.png)
+
+## 🧑‍💻 Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/manish8726-develops/ITI-website.git
+   cd ITI-website
+````
+
+2. **Install dependencies**
+
+   ```bash
+   npm install
+   ```
+
+3. **Run the development server**
+
+   ```bash
+   npm run dev
+   ```
+
+4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+## 📁 Folder Structure
+
+```
+/app
+  /about
+  /courses
+  /contact
+  /layout.tsx
+  /page.tsx
+/components
+/public
+/styles
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🙌 Credits
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Developed by [Manish Chaurasia](https://github.com/manish8726-develops)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+You can copy and paste this directly into your `README.md` file. Let me know if you want badges, a Hindi version, or a section for deployment steps on Vercel.
+```
